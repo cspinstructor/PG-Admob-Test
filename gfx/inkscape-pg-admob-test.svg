@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="inkscape-pg-admob-test.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#dd55ff;stop-opacity:1"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#f6d5ff;stop-opacity:1"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient829">
+      <stop
+         style="stop-color:#aad400;stop-opacity:1"
+         offset="0"
+         id="stop825" />
+      <stop
+         style="stop-color:#eeffaa;stop-opacity:1"
+         offset="1"
+         id="stop827" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient829"
+       id="linearGradient831"
+       x1="-116.03869"
+       y1="127.47767"
+       x2="-115.8497"
+       y2="94.593742"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient866"
+       x1="-179.53818"
+       y1="127.85635"
+       x2="-180.48363"
+       y2="87.790169"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-760.67214"
+     inkscape:cy="743.26282"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g842"
+       inkscape:export-filename="C:\Phonegap-md2214\pg-md2214-20-navbar\www\icon144.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         ry="4.4406953"
+         y="91.967026"
+         x="-135.31548"
+         height="37.967941"
+         width="37.967941"
+         id="rect4485"
+         style="opacity:1;fill:url(#linearGradient831);fill-opacity:1;stroke:none;stroke-width:0.15542433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4497"
+         y="116.79194"
+         x="-128.50092"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.19254684px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47981367"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.47981367"
+           y="116.79194"
+           x="-128.50092"
+           id="tspan4495"
+           sodipodi:role="line">20</tspan></text>
+      <path
+         id="path833"
+         transform="scale(0.26458333)"
+         d="M -400.71484 392.51953 L -398.57227 431.0918 L -415.71484 440.37695 L -423.57227 437.51953 L -442.85742 441.0918 L -481.42773 438.23438 L -439.99805 491.09375 L -384.71094 491.09375 C -375.41275 491.09375 -367.92773 483.60678 -367.92773 474.30859 L -367.92773 433.43945 L -400.71484 392.51953 z "
+         style="opacity:0.3;fill:#000000;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g877"
+       inkscape:export-filename="C:\Phonegap-md2214\PG Admob Test\www\icon144.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:url(#linearGradient866);fill-opacity:1;stroke:none;stroke-width:0.15542433;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect844"
+         width="37.967941"
+         height="37.967941"
+         x="-198.4375"
+         y="89.888153"
+         ry="4.4406953" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.19254684px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47981367"
+         x="-191.62294"
+         y="114.71307"
+         id="text848"><tspan
+           sodipodi:role="line"
+           id="tspan846"
+           x="-191.62294"
+           y="114.71307"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.47981367">Ad</tspan></text>
+      <path
+         id="path868"
+         transform="scale(0.26458333)"
+         d="M -627.85742 381.80469 L -627.85742 433.23438 L -722.14258 433.23438 L -684.37109 483.23633 L -623.2832 483.23633 C -613.98502 483.23633 -606.5 475.74936 -606.5 466.45117 L -606.5 411.01367 C -617.99257 395.27092 -627.85742 381.80469 -627.85742 381.80469 z "
+         style="opacity:0.3;fill:#000000;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
