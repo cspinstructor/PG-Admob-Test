@@ -2,7 +2,7 @@
 <widget id="howto.admob.phonegap" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>How to Admob Phonegap</name>
     <description>
-        Learn how to add Admob ads to your Framework 7 Phonegap app
+        Learn how to add Admob ads to your Phonegap app
     </description>
     <author email="ezipicapp@gmail.com" href="https://ezipicapp.blogspot.com">
         Apache Cordova Team
